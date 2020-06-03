@@ -16,5 +16,5 @@ Current roadmap
 
 
 Dislcaimer - 
-Please Do not use my projects and attempt to advertise them as "your course work", Some colleges will literally expel you for that immediatly. 
+Please Do not use my projects and attempt to advertise them as "your course work", Some colleges will literally expel you for that immediately. 
 
